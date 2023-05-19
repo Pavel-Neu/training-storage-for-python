@@ -1,7 +1,7 @@
 # Проект 0. Угадай число
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/Pavel-Neu/training-storage-for-python.git/README.md#Описание-проекта)  
+[1. Описание проекта](https://github.com/Pavel-Neu/training-storage-for-python/blob/main/project_01/README.md#Описание-проекта)  
 [2. Какой кейс решаем?](.README.md#Какой-кейс-решаем)  
 [3. Краткая информация о данных](.README.md#Краткая-информация-о-данных)  
 [4. Этапы работы над проектом](.README.md#Этапы-работы-над-проектом)  
