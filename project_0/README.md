@@ -1,16 +1,16 @@
 # Проект 0. Угадай число
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/Pavel-Neu/training-storage-for-python/blob/main/project_01/README.md#Описание-проекта)  
-[2. Какой кейс решаем?](https://github.com/Pavel-Neu/training-storage-for-python/blob/main/project_01/README.md#Какой-кейс-решаем)   
-[3. Этапы работы над проектом](https://github.com/Pavel-Neu/training-storage-for-python/blob/main/project_01/README.md#Этапы-работы-над-проектом)  
-[4. Результаты](https://github.com/Pavel-Neu/training-storage-for-python/blob/main/project_01/README.md#Результат)    
-[5. Выводы](https://github.com/Pavel-Neu/training-storage-for-python/blob/main/project_01/README.md#Выводы) 
+[1. Описание проекта](https://github.com/Pavel-Neu/training-storage-for-python/blob/main/project_0/README.md#Описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/Pavel-Neu/training-storage-for-python/blob/main/project_0/README.md#Какой-кейс-решаем)   
+[3. Этапы работы над проектом](https://github.com/Pavel-Neu/training-storage-for-python/blob/main/project_0/README.md#Этапы-работы-над-проектом)  
+[4. Результаты](https://github.com/Pavel-Neu/training-storage-for-python/blob/main/project_0/README.md#Результат)    
+[5. Выводы](https://github.com/Pavel-Neu/training-storage-for-python/blob/main/project_0/README.md#Выводы) 
 
 ### Описание проекта    
 Угадать загаданное компьютером число за минимальное число попыток.
 
-:arrow_up:[к оглавлению](https://github.com/Pavel-Neu/training-storage-for-python/blob/main/project_01/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Pavel-Neu/training-storage-for-python/blob/main/project_0/README.md#Оглавление)
 
 
 ### Какой кейс решаем?    
@@ -27,7 +27,7 @@
 **Что практикуем**     
 Учимся писать хороший код на python
 
-:arrow_up:[к оглавлению](https://github.com/Pavel-Neu/training-storage-for-python/blob/main/project_01/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Pavel-Neu/training-storage-for-python/blob/main/project_0/README.md#Оглавление)
 
 
 ### Этапы работы над проектом  
@@ -36,13 +36,13 @@
 - Написал функцию, которая определяет, за какое среднее число попыток программа угадывает загаданное число.
 - Оформил своё практическое задание.
 
-:arrow_up:[к оглавлению](https://github.com/Pavel-Neu/training-storage-for-python/blob/main/project_01/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Pavel-Neu/training-storage-for-python/blob/main/project_0/README.md#Оглавление)
 
 
 ### Результаты:  
 - Создана программа, которая угадывает, загаданное компьютером число от 1 до 100 меньше, чем за 20 попыток.
 
-:arrow_up:[к оглавлению](https://github.com/Pavel-Neu/training-storage-for-python/blob/main/project_01/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Pavel-Neu/training-storage-for-python/blob/main/project_0/README.md#Оглавление)
 
 
 ### Выводы:  
@@ -50,4 +50,4 @@
 - Потренировался в оформлении своей практической работы.
 - Потренировался работать с Vs Code и GitHub.
 
-:arrow_up:[к оглавлению](https://github.com/Pavel-Neu/training-storage-for-python/blob/main/project_01/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Pavel-Neu/training-storage-for-python/blob/main/project_0/README.md#Оглавление)
