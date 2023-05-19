@@ -2,11 +2,10 @@
 
 ## Оглавление  
 [1. Описание проекта](https://github.com/Pavel-Neu/training-storage-for-python/blob/main/project_01/README.md#Описание-проекта)  
-[2. Какой кейс решаем?](.README.md#Какой-кейс-решаем)  
-[3. Краткая информация о данных](.README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](.README.md#Этапы-работы-над-проектом)  
-[5. Результат](.README.md#Результат)    
-[6. Выводы](.README.md#Выводы) 
+[2. Какой кейс решаем?](https://github.com/Pavel-Neu/training-storage-for-python/blob/main/project_01/README.md#Какой-кейс-решаем)   
+[3. Этапы работы над проектом](https://github.com/Pavel-Neu/training-storage-for-python/blob/main/project_01/README.md#Этапы-работы-над-проектом)  
+[4. Результат](https://github.com/Pavel-Neu/training-storage-for-python/blob/main/project_01/README.md#Результат)    
+[5. Выводы](https://github.com/Pavel-Neu/training-storage-for-python/blob/main/project_01/README.md#Выводы) 
 
 ### Описание проекта    
 Угадать загаданное компьютером число за минимальное число попыток.
@@ -28,19 +27,22 @@
 **Что практикуем**     
 Учимся писать хороший код на python
 
+:arrow_up:[к оглавлению](https://github.com/Pavel-Neu/training-storage-for-python/blob/main/project_01/README.md#Оглавление)
+
+
 ### Этапы работы над проектом  
 - Импортировал библиотеку NumPy и использовал функцию random для получения случайных чисел от 1 до 100.
 - Написал функцию, которая принимает на вход загаданное число, а потом уменьшает или увеличивает его в зависимости от того, больше оно или меньше нужного, и возвращает число попыток угадывания.
 - Написал функцию, которая определяет, за какое среднее число попыток программа угадывает загаданное число.
 - Оформил своё практическое задание.
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Pavel-Neu/training-storage-for-python/blob/main/project_01/README.md#Оглавление)
 
 
 ### Результаты:  
 - Создана программа, которая угадывает, загаданное компьютером число от 1 до 100 меньше, чем за 20 попыток.
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Pavel-Neu/training-storage-for-python/blob/main/project_01/README.md#Оглавление)
 
 
 ### Выводы:  
@@ -48,4 +50,4 @@
 - Потренировался в оформлении своей практической работы.
 - Потренировался работать с Vs Code и GitHub.
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Pavel-Neu/training-storage-for-python/blob/main/project_01/README.md#Оглавление)
