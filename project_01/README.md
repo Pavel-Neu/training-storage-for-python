@@ -4,7 +4,7 @@
 [1. Описание проекта](https://github.com/Pavel-Neu/training-storage-for-python/blob/main/project_01/README.md#Описание-проекта)  
 [2. Какой кейс решаем?](https://github.com/Pavel-Neu/training-storage-for-python/blob/main/project_01/README.md#Какой-кейс-решаем)   
 [3. Этапы работы над проектом](https://github.com/Pavel-Neu/training-storage-for-python/blob/main/project_01/README.md#Этапы-работы-над-проектом)  
-[4. Результат](https://github.com/Pavel-Neu/training-storage-for-python/blob/main/project_01/README.md#Результат)    
+[4. Результаты](https://github.com/Pavel-Neu/training-storage-for-python/blob/main/project_01/README.md#Результат)    
 [5. Выводы](https://github.com/Pavel-Neu/training-storage-for-python/blob/main/project_01/README.md#Выводы) 
 
 ### Описание проекта    
